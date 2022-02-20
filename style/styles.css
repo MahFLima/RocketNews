@@ -81,14 +81,15 @@
   height: 1.5rem;
 }
 
-.contato a{
+#read_news{
   text-decoration: none;
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  color: var(--bg-button-color);
 }
 
-.contato span{
+#read_news span{
   color: var(--bg-button-color);
   font-weight: 700;
   font-size: 14px;
